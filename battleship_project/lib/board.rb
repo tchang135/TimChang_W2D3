@@ -35,4 +35,7 @@ class Board
         end 
     counter
     end 
+
+
+    
 end
